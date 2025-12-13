@@ -1,10 +1,11 @@
 
-baseURL = "https://dragontomato-blog.pages.dev/"
+baseURL = "https://dragontomato.com/"
 languageCode = "en-us"
-title = "DragonTomato Blog"
+title = "DragonTomato"
 theme = "ananke"
-buildFuture = true
-paginate = 10
+paginate = 12
+enableRobotsTXT = true
+buildFuture = false
 
 [params]
   mainSections = ["posts"]
